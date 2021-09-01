@@ -6,7 +6,7 @@ This repository contains working code samples which demonstrate Java integration
 The samples are organized into categories and common usage examples, just like our [API Reference Guide](http://developer.authorize.net/api/reference). Our API Reference Guide is an interactive reference for the Authorize.Net API. It explains the request and response parameters for each API method and has embedded code windows to allow you to send actual requests right within the API Reference Guide.
 
 
-## Using the Sample Code
+## Using the Sample CodeERERRRRRRR
 
 The samples are all completely independent and self-contained. You can analyze them to get an understanding of how a particular method works, or you can use the snippets as a starting point for your own project.
 
@@ -38,7 +38,7 @@ Please set the JAVA environment proxy using a similar code :
     System.setProperty(Constants.HTTPS_PROXY_HOST, "127.0.0.1");
     System.setProperty(Constants.HTTPS_PROXY_PORT, "8888");
 ```
-**For using proxy authentication**
+**For using proxy authenticatio RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRn**
 
 Please set the JAVA environment proxy credentials using a similar code :
 ```
